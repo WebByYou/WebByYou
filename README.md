@@ -49,11 +49,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webbyyou&show_icons=true&theme=tokyonight&hide_border=true&locale=th" alt="GitHub Stats" />
-</div>
 
-<hr />
 
 <div align="center">
   <p>ติดต่อเราได้ที่ <a href="https://webbyyou.net">WebbyYou.net</a></p>
