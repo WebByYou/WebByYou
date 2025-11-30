@@ -41,6 +41,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -54,5 +56,5 @@
 <div align="center">
   <p>ติดต่อเราได้ที่ <a href="https://webbyyou.net">WebbyYou.net</a></p>
   <p>Email: <a href="mailto:wbywebbyyou@gmail.com">wbywebbyyou@gmail.com</a></p>
-  <p>© 2024 WBY - Web By You. All rights reserved.</p>
+  <p>© 2025 WBY - Web By You. All rights reserved.</p>
 </div>
